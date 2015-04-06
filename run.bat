@@ -1,0 +1,1 @@
+java -cp bin;xrmi.jar phisighackers.tsuro.Main
